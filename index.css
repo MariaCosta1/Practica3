@@ -1,0 +1,77 @@
+header{
+    margin-top: 30px;
+    color:#8e8783;
+}
+#btn-ppio{
+    color:#8e8783;
+    font-family: sans-serif;
+    font-size: small;
+}
+
+main{
+    margin-top: 30px;
+}
+footer{
+    color:#ffffff;
+    background-color: #8e8783;
+}
+
+
+.container-fluid{
+    font-family:sans-serif;
+    color: #8e8783;
+}
+
+
+#btn-sostenibilidad{
+    background-color: #8e8783;
+    position: relative;
+    left: 40%;
+}
+
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.texto1-foto1{
+    position: absolute;
+    top: 90%;
+    left: 80%;
+    color:#8e8783;
+    /*transform: translate(-50%, -50%);*/
+}
+.texto2-foto1{
+    position: absolute;
+    top: 95%;
+    left: 73%;
+    color:#8e8783;
+    /*transform: translate(-50%, -50%);*/
+}
+.texto1-foto2{
+    position: absolute;
+    top: 90%;
+    right: 80%;
+    color:#8e8783;
+    /*transform: translate(-50%, -50%);*/
+}
+.texto2-foto2{
+    position: absolute;
+    top: 95%;
+    right: 51%;
+    color:#8e8783;
+    /*transform: translate(-50%, -50%);*/
+}
+#frase1{
+    margin-top: 10%;
+    margin-right: 5%;
+    text-align: center;
+}
+
+
+#frase2{
+    margin-top: 40%;
+    margin-right: 5%;
+    text-align: center;
+}
+
