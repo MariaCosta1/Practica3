@@ -28,6 +28,11 @@ footer{
     position: relative;
     left: 40%;
 }
+#btn-empleo{
+    background-color: #8e8783;
+    position: relative;
+    left: 40%;
+}
 
 .contenedor{
     position: relative;
@@ -45,6 +50,20 @@ footer{
     position: absolute;
     top: 95%;
     left: 73%;
+    color:#8e8783;
+    /*transform: translate(-50%, -50%);*/
+}
+.texto1-foto3{
+    position: absolute;
+    top: 90%;
+    left: 77%;
+    color:#8e8783;
+    /*transform: translate(-50%, -50%);*/
+}
+.texto2-foto3{
+    position: absolute;
+    top: 95%;
+    left: 60%;
     color:#8e8783;
     /*transform: translate(-50%, -50%);*/
 }
@@ -74,4 +93,5 @@ footer{
     margin-right: 5%;
     text-align: center;
 }
+
 

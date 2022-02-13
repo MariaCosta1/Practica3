@@ -13,33 +13,22 @@ main{
     font-family:sans-serif;
     color: #8e8783;
 }
-
-
 .contenedor{
     position: relative;
     display: inline-block;
-
-}
-.titulo{
-    position: relative;
-    color:#ffffff;
-    font-weight: bold;
-    top: 40%;
     text-align: center;
 }
-.subtitulo{
-    /*position:absolute;*/
-    left:40%;
-    color:#005D55;
-    font-weight: bold;
-    margin-top: 3%;
-    margin-left: 5%;
+.unete{
+    position: absolute;
+    top: 50%;
+    left: 46%;
+    /*transform: translate(-50%, -50%);*/
+}
+#unete{
+    background-color: #8e8783;
+    color: white;
+}
 
-}
-.texto{
-    margin-left: 2%;
-    margin-right: 2%;
-}
 
 footer{
     color:#ffffff;

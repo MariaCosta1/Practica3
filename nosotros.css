@@ -21,12 +21,15 @@ main{
 
 }
 .titulo{
-    position: relative;
+    position: absolute;
+    top: 25%;
+    left:10%;
     color:#ffffff;
-    font-weight: bold;
-    top: 40%;
-    text-align: center;
+    font-style: bold;
+    /*transform: translate(-50%, -50%);*/
+
 }
+
 .subtitulo{
     /*position:absolute;*/
     left:40%;
@@ -40,9 +43,18 @@ main{
     margin-left: 2%;
     margin-right: 2%;
 }
+#txt-andre{
+    text-align: right;
+    margin-top:60%;
+    margin-left:10%;
+}
 
+#video{
+    align-items: center;
+}
 footer{
     color:#ffffff;
     background-color: #8e8783;
     
 }
+
